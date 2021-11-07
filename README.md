@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MevlutYildiz77
 - 👀 I’m interested in SQL, machine learning
-- 🌱 I’m currently learning Python, SQL, Tableou, Pandas, Numpy, Machine Learning
+- 🌱 I’m currently learning Python, SQL, Tableou, Pandas, Numpy, Matplotlib, Seaborn, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
