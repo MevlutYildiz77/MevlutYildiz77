@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## :male-detective: Social:
+## :female-detective: Social:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/mevl%C3%BCt-yildiz/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/dashboard)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=black)%5d(mailto:mevltyldz1@gmail.com)
@@ -26,9 +26,10 @@
 
 
  <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=dark" alt="my github stats" width="42%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=MevlütYildiz77&theme=dark" alt="my github stats" width="42%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MevlutYildiz77&theme=dark" alt="my commit status" width="42%" /> </p>
 
  ![](https://komarev.com/ghpvc/?username=your-github-MevlutYildiz77&color=orange)
+
 
 
