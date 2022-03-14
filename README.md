@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## :female-detective: Social:
+## Social:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/mevl%C3%BCt-yildiz/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/dashboard)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=black)%5d(mailto:mevltyldz1@gmail.com)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=black)(mailto:mevltyldz1@gmail.com)
 <a href="https://public.tableau.com/app/profile/mevl.t1206#!/?newProfile=&activeTab=0" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsN6dl3pac19-gCdLN0p68lZN9er1LNG2tj4mJAr_A2ZtvXP3mmnj1WxKKP2TxIAMELQ&usqp=CAU" alt="Tableau" height="40"/> </a>
 
 ## :computer: Libraries, Languages and Tools:
