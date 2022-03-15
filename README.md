@@ -26,10 +26,10 @@
 
 
  <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MevlütYildiz77&theme=dark" alt="my github stats" width="42%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=MevlutYildiz77&theme=dark" alt="my github stats" width="42%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MevlutYildiz77&theme=dark" alt="my commit status" width="42%" /> </p>
 
- ![](https://komarev.com/ghpvc/?username=your-github-&color=orange)
+ ![](https://komarev.com/ghpvc/?username=your-github-MevlutYildiz77&color=orange)
 
 
 
