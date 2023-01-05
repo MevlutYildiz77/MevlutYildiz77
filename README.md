@@ -24,7 +24,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  width="70" height="45"/>
 <a href="#" target="_blank"> <img src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="70" height="45"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" width="70" height="45"/> </a>
-
+<a href="#" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png](https://www.google.com/search?q=sklearn&tbm=isch&ved=2ahUKEwiFi6bykrH8AhVk47sIHbbaDt0Q2-cCegQIABAA&oq=sklearn&gs_lcp=CgNpbWcQAzIECCMQJzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgAEEM6CAgAELEDEIMBOggIABCABBCxA1D5DViZF2DyGmgAcAB4AIABhwKIAb0KkgEFMC43LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=xCK3Y4WZOeTG7_UPtrW76A0&bih=637&biw=1326&client=opera&hs=soZ#imgrc=8cij3GdoNwkDdM)" width="70" height="45"/> </a>
 
  <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=MevlutYildiz77&theme=dark" alt="my github stats" width="42%"/>&nbsp;
