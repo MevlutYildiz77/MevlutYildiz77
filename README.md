@@ -1,8 +1,8 @@
-- 👋 I’m @Mevlut Yıldız
-- 👀 I’m interested in Data Anlayst and Data Science.
+- 👋 Hi! I’m Mevlut Yıldız
+- 👀 I’m interested in SQL, Tableau, and Machine Learning.
 - 🌱 I know Python, SQL, Tableou, Pandas, Numpy, Matplotlib, Seaborn, Machine Learning, Deep Learning and NLP.
-- 💞️ I’m looking to collaborate on darta anlayst and data scientist role.
-- 📫 You can reach me from social links below.
+- 💞️ I’m looking to collaborate on SQL, Tableau and Machine Learning projects.
+- 📫 You can reach me from mevltyldz1@gmail.com
 
 ## Social:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/mevl%C3%BCt-yildiz/)
