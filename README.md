@@ -24,15 +24,15 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  width="70" height="45"/>
 <a href="#" target="_blank"> <img src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="70" height="45"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" width="70" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/Anaconda.png"/> </a>
-<a href="#" target="_blank"> <https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/PostgreSQL.png"/> </a>
-<a href="#" target="_blank"> <https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/PyTorch.png"/> </a>
-<a href="#" target="_blank"> <https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/Streamlit_Logo_.jpg"/> </a>
-<a href="#" target="_blank"> <https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/aws.jpg"/> </a>
-<a href="#" target="_blank"> <https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/excel.jfif"/> </a>
-<a href="#" target="_blank"> <https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/googlesheet.png"/> </a>
-<a href="#" target="_blank"> <https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/sklearn.png"/> </a>
-<a href="#" target="_blank"> <https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/tensorflow.png"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/Anaconda.png alt="Anaconda" width="70" height="45""/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/PostgreSQL.png"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/PyTorch.png"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/Streamlit_Logo_.jpg"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/aws.jpg"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/excel.jfif"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/googlesheet.png"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/sklearn.png"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/tensorflow.png"/> </a>
 
  <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=MevlutYildiz77&theme=dark" alt="my github stats" width="42%"/>&nbsp;
