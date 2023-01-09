@@ -25,14 +25,14 @@
 <a href="#" target="_blank"> <img src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="70" height="45"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" width="70" height="45"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/Anaconda.png" alt="Anaconda" width="70" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/PostgreSQL.png" alt="Anaconda" width="70" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/PyTorch.png" alt="Anaconda" width="70" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/Streamlit_Logo_.jpg" alt="Anaconda" width="70" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/aws.jpg" alt="Anaconda" width="70" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/excel.jfif" alt="Anaconda" width="70" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/googlesheet.png" alt="Anaconda" width="70" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/sklearn.png" alt="Anaconda" width="70" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/tensorflow.png" alt="Anaconda" width="70" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/PostgreSQL.png" alt="PostgreSQL" width="70" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/PyTorch.png" alt="PyTorch" width="70" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/Streamlit_Logo_.jpg" alt="Streamlit" width="70" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/aws.jpg" alt="aws" width="70" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/excel.jfif" alt="excel" width="70" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/googlesheet.png" alt="googlesheet" width="70" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/sklearn.png" alt="sklearn" width="70" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/MevlutYildiz77/MevlutYildiz77/blob/main/Pictures/tensorflow.png" alt="tensorflow" width="70" height="45"/> </a>
 
  <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=MevlutYildiz77&theme=dark" alt="my github stats" width="42%"/>&nbsp;
